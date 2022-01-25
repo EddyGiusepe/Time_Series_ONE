@@ -2,13 +2,16 @@
 
 ## O que é uma série temporal?
 
-Uma série temporal é uma sequência de observações em intervalos de tempo regularmente espaçados. 
+Uma série temporal é uma sequência de observações em intervalos de tempo regularmente espaçados (ou seja ordenados de forma cronológica). A análise de séries temporais é realizada com o intuito de explorar o comportamento passado e também de prever o comportamento futuro em um determinado problema.
 
-Por exemplo:
 
-* Taxas de desemprego mensais para os últimos cinco anos
-* Produção diária em uma fábrica durante um mês
-* População em cada década de um século anterior em um estado
+Exemplos de aplicação:
+
+* **Economia:** taxas de desemprego mensais para os últimos cinco anos, preços diarios de ações, etc.
+* **Medicina:** níveis de eletrocardiograma ou eletroencefalograma, etc.
+* **Epidemiologia:** casos semanais de sarampo, casos mensais de AIDS, etc.
+* **Metereologia:** temperatura diária, registro de mares, etc.
+* **Industria:** produção diária em uma fábrica durante um mês, etc.
 
 
 ## Componentes de uma série temporal
