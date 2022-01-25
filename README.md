@@ -1,5 +1,8 @@
 # Time Series
 
+![image](https://user-images.githubusercontent.com/69597971/150888745-5c181494-48c9-43f2-aa3f-a6bdd0be8553.png)
+
+
 ## O que é uma série temporal?
 
 Uma série temporal é uma sequência de observações em intervalos de tempo regularmente espaçados (ou seja ordenados de forma cronológica). A análise de séries temporais é realizada com o intuito de explorar o comportamento passado e também de prever o comportamento futuro em um determinado problema.
@@ -39,6 +42,9 @@ Faz referência à relação entre a observação de uma variável com as análi
 
 A série se comporta de maneira aleatória ao longo do tempo, seguindo uma média constante.
 
+Para maiores estudos veja o seguinte link:
+
+* [Séries Temporais](https://slideplayer.com.br/slide/12328598/)
 
 
 Thanks God!
