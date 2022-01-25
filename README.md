@@ -12,18 +12,18 @@ Por exemplo:
 
 
 ## Componentes de uma série temporal
-**Tendência**
+* **Tendência:**
 
 A tendência de longo prazo de uma série para aumentar ou diminuir (tendência para cima ou tendência para baixo).
 
-Sazonalidade
+* **Sazonalidade:**
 
 Flutuação periódica na série temporal durante um determinado período. Essas flutuações formam um padrão que tende a se repetir de um período sazonal para o próximo.
 
-Ciclos
+* **Ciclos:**
 
 Longas distâncias da tendência devido a fatores diferentes que da sazonalidade. Os ciclos, em geral, ocorrem durante um longo intervalo de tempo, e os intervalos de tempo entre picos sucessivos ou passagens de um ciclo não são necessariamente os mesmos.
 
-Movimento irregular
+* **Movimento irregular:**
 
 O movimento restante após a explicação da tendência e os movimentos sazonais e cíclicos, ruído aleatório ou erro em uma série temporal.
