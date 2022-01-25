@@ -46,5 +46,9 @@ Para maiores estudos veja o seguinte link:
 
 * [Séries Temporais](https://slideplayer.com.br/slide/12328598/)
 
+Este Script foi baseado no seguinte vídeo:
+
+* [Time Series Analysis in Python](https://www.youtube.com/watch?v=m2Oft2nllw4)
+
 
 Thanks God!
